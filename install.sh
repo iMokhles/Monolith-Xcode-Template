@@ -3,16 +3,6 @@
 # Default the folder name to "Monolith".
 folderName="Monolith"
 
-# Ensure that at most one argument has been passed in.
-if [ "$#" -eq 1 ]
-then
-	folderName=$1
-elif [ "$#" -gt 1 ]
-then
-	echo -e "This script takes one argument at most.\\ne.g. install.sh \"Monolith\""
-	exit 1
-fi
-
 # Determine the install directory.
 installDirectory=~/Library/Developer/Xcode/Templates/"$folderName"
 
