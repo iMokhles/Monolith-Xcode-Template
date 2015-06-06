@@ -1,0 +1,9 @@
+Package: ___VARIABLE_bundleIdentifierPrefix:bundleIdentifier___.___PACKAGENAMEASIDENTIFIER___
+Name: ___PACKAGENAMEASIDENTIFIER___
+Depends: com.johncoates.monolith, mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Example Monolith tweak written in Objective-C
+Maintainer: ___FULLUSERNAME___
+Author: ___FULLUSERNAME___
+Section: Tweaks
