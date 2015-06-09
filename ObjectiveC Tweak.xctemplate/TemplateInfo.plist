@@ -231,6 +231,24 @@
 			<key>Path</key>
 			<string>Hooks/___PACKAGENAMEASIDENTIFIER___.m</string>
 		</dict>
+		<key>Plugin/___PACKAGENAMEASIDENTIFIER___Plugin.h</key>
+		<dict>
+			<key>Group</key>
+			<array>
+				<string>Plugin</string>
+			</array>
+			<key>Path</key>
+			<string>Plugin/___PACKAGENAMEASIDENTIFIER___Plugin.h</string>
+		</dict>
+		<key>Plugin/___PACKAGENAMEASIDENTIFIER___Plugin.m</key>
+		<dict>
+			<key>Group</key>
+			<array>
+				<string>Plugin</string>
+			</array>
+			<key>Path</key>
+			<string>Plugin/___PACKAGENAMEASIDENTIFIER___Plugin.m</string>
+		</dict>
 		<key>Tweak.h</key>
 		<dict>
 			<key>Path</key>
@@ -257,6 +275,8 @@
 	<array>
 		<string>Hooks/___PACKAGENAMEASIDENTIFIER___.h</string>
 		<string>Hooks/___PACKAGENAMEASIDENTIFIER___.m</string>
+		<string>Plugin/___PACKAGENAMEASIDENTIFIER___Plugin.h</string>
+		<string>Plugin/___PACKAGENAMEASIDENTIFIER___Plugin.h</string>
 		<string>Tweak.h</string>
 		<string>Monolith/Monolith.framework</string>
 		<string>DEBIAN/control</string>

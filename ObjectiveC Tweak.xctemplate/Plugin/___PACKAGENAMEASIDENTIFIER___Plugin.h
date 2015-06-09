@@ -6,9 +6,9 @@
 //  Copyright (c) ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 #import <Monolith/Monolith.h>
 
-@interface ___PACKAGENAMEASIDENTIFIER___ : MONHook
+@interface ___PACKAGENAMEASIDENTIFIER___Plugin : MONPlugin
 
 @end
