@@ -236,10 +236,10 @@
 			<key>Path</key>
 			<string>Tweak.h</string>
 		</dict>
-		<key>Monolith.framework</key>
+		<key>Monolith/Monolith.framework</key>
 		<dict>
 			<key>Path</key>
-			<string>Monolith.framework</string>
+			<string>Monolith/Monolith.framework</string>
 			<key>Group</key>
 			<array>
 				<string>Hooks</string>
@@ -258,7 +258,7 @@
 		<string>Hooks/___PACKAGENAMEASIDENTIFIER___.h</string>
 		<string>Hooks/___PACKAGENAMEASIDENTIFIER___.m</string>
 		<string>Tweak.h</string>
-		<string>Monolith.framework</string>
+		<string>Monolith/Monolith.framework</string>
 		<string>DEBIAN/control</string>
 	</array>
 </dict>

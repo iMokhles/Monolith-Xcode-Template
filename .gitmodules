@@ -1,0 +1,3 @@
+[submodule "ObjectiveC Tweak.xctemplate/Monolith"]
+	path = ObjectiveC Tweak.xctemplate/Monolith
+	url = https://github.com/johncoates/Monolith.git
